@@ -1,0 +1,7 @@
+*.py[co]
+feedback.txt
+
+# IDE/SO files
+*~
+.DS_Store
+.idea
